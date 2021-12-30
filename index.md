@@ -16,6 +16,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Exploratory Analysis of Earthquakes Worldwide](/earthquakes)
+<img src="images/earthquakes.png?raw=true"/>
+
+---
+
 
 ### Category Name 2
 
