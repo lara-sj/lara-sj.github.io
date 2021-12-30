@@ -4,6 +4,10 @@
 
 ### Category Name 1 
 
+[Exploratory Analysis of Earthquakes Worldwide](/earthquakes)
+<img src="images/earthquakes.png?raw=true"/>
+
+---
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -14,10 +18,6 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Exploratory Analysis of Earthquakes Worldwide](/earthquakes)
-<img src="images/earthquakes.png?raw=true"/>
 
 ---
 
