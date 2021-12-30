@@ -3,9 +3,8 @@ logo: "/images/lara3.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello, I'm Lara! 
   <br><br>
-  An aspiring data scientist with a Bachelor's degree in Maths & Economics (Joint Honours) from the University of York and over 7 years of experience in the Financial Services industry.
+  An aspiring data scientist with a Bachelor's degree in Maths & Economics from the University of York and 7 years of experience in the Financial Services industry.
   <br><br>
-  
   <a href="https://www.linkedin.com/in/lara-san-juan-9b139698/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
